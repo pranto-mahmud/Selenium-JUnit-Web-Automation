@@ -41,7 +41,7 @@ It includes two tasks:
 - Store data into text file
 
 🎥 Video Recording:
-[Watch Video]([videos/table-scraping.mp4](https://drive.google.com/file/d/1DN3s8uaC5E8NHfebt1DAb_gSSEtZijPl/view?usp=sharing))
+[Watch Video](https://drive.google.com/file/d/1DN3s8uaC5E8NHfebt1DAb_gSSEtZijPl/view?usp=drive_link)
 
 📸 Test Report Screenshot:
 ![Scraping Report]<img width="1132" height="614" alt="ScrapingTableData" src="https://github.com/user-attachments/assets/1fa0e362-b6e5-4171-8fe9-f0735dc7b763" />
